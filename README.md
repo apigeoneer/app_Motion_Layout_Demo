@@ -2,7 +2,7 @@
 
 ## App Demo
 
-<img src="https://user-images.githubusercontent.com/43718257/109408373-12686000-79af-11eb-998c-4d2e70a4296c.gif" width="250" height="470">
+<img src="https://user-images.githubusercontent.com/43718257/109408373-12686000-79af-11eb-998c-4d2e70a4296c.gif" width="250" height="490">
 
 
 ### Splash Screen

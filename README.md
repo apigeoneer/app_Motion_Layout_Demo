@@ -1,5 +1,11 @@
 # Twitter Splash Screen : Motion Layout Demo
 
+## App Demo
+
+![Twitter Splash Screen](https://user-images.githubusercontent.com/43718257/109408169-d03e1f00-79ac-11eb-8cf5-5c62cca59193.mp4)
+
+
+
 ### Splash Screen
 
 This is the first screen that comes to a user's view when an app launches. Splash screens usually display an animation of the logo but the more complex ones may also show some  animations based around the entire theme of the app.

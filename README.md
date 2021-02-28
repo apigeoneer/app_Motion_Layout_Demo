@@ -2,8 +2,7 @@
 
 ## App Demo
 
-![Twitter Splash Screen](https://user-images.githubusercontent.com/43718257/109408169-d03e1f00-79ac-11eb-8cf5-5c62cca59193.mp4)
-
+[App demo](https://user-images.githubusercontent.com/43718257/109408169-d03e1f00-79ac-11eb-8cf5-5c62cca59193.mp4)
 
 
 ### Splash Screen

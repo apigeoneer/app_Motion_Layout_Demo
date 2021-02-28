@@ -7,12 +7,12 @@ This is the first screen that comes to a user's view when an app launches. Splas
 
 ### Motion Layout
 
-(MotionLayout)[https://developer.android.com/training/constraint-layout/motionlayout] is intended to move, resize, and animate UI elements with which users interact, such as buttons and title bars. It is meant to add not only gratuitous special effects in an app, but also to create motions that help users understand what the app is doing.
+[MotionLayout](https://developer.android.com/training/constraint-layout/motionlayout) is intended to move, resize, and animate UI elements with which users interact, such as buttons and title bars. It is meant to add not only gratuitous special effects in an app, but also to create motions that help users understand what the app is doing.
 
-* (Build Complex layout transitions easily)[https://material.io/design/motion/understanding-motion.html#brand-expression]:
+* [Build Complex layout transitions easily] (https://material.io/design/motion/understanding-motion.html#brand-expression):
 It bridges the gap between layout transitions and complex motion handling, offering a mix of features between the property animation framework, TransitionManager, and CoordinatorLayout.
 
-* (Seekable Transitions via Keyframes)[https://medium.com/google-developers/defining-motion-paths-in-motionlayout-6095b874d37]:
+* [Seekable Transitions via Keyframes](https://medium.com/google-developers/defining-motion-paths-in-motionlayout-6095b874d37):
 It inherently supports seekable transitions. This means that you can instantly show any point within the transition based on some condition, such as touch input. MotionLayout also supports keyframes, enabling fully customized transitions to suit your needs.
 
 * Write less Code :
